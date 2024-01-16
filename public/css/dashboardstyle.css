@@ -1,0 +1,9 @@
+@import url('components/topnavbar.css');
+
+
+body{
+    background-color: white;
+}
+.input-box{
+    background-color:aqua;
+}
